@@ -1,5 +1,8 @@
 # PacMan Read Me File
+## About
+PacMan simulator - bounces between left and right borders of page width. Responsive. 
 
+##How it Works
 This repo consists of several images which are placed in an array and are then switched through each time the Run function is called. 
 
 To set the pacman image to flip when it gets to the end the window, I had to determine what type of value was being returned by img.style.left.
